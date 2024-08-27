@@ -7,6 +7,7 @@ public class a1_constructing_bst_from_sorted_array_in_ascending_order {
             this.data = data;
             this.left = left;
             this.right = right;
+            
         }
     }
 
